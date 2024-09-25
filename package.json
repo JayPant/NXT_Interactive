@@ -1,0 +1,13 @@
+{
+    "name": "space-odyssey-server",
+    "version": "1.0.0",
+    "description": "Multiplayer server for Space Odyssey game",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "colyseus": "^0.14.0",
+        "express": "^4.17.1"
+    }
+}
